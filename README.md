@@ -4,7 +4,7 @@ This is really awesome
 
 Updates made on master on github
 
-## Purpose is to conflict mistakes
+## Repository Purpose
 
 This is just a readme file
 This was edited locally
