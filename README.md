@@ -2,6 +2,4 @@
 
 This is really awesome
 
-new change on branch
-
-Updated locally
+Updates made on master on github
